@@ -1,6 +1,6 @@
 # Scrape and Save Data to SQLITE3 Database
 
-This project scrapes data from a website ('https://www.glasses.com/') and saves it into a database.
+This is a demo project that scrapes data from a website ('https://www.glasses.com/') and saves it into a database.
 
 ## Requirements
 
